@@ -15,19 +15,8 @@ public class Casio implements Calculator{
         return sum;
         // TODO Auto-generated method stub    
     }
-    public int sub() {
-        // TODO Auto-gene      
-         int diff;
-        diff=num2-num1;
-        // System.out.println(num2-num1);      
-          return diff;
-          console.log("hai")
-          console.log("rt")
-          console.log("ty")
-          console.log("456")
+    pub
 
 
-
-          
     }
 }
