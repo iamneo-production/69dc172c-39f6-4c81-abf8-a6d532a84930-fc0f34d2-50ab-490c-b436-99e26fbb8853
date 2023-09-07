@@ -23,5 +23,6 @@ public class Casio implements Calculator{
           return diff;
           console.log("hai")
           console.log("rt")
+          console.log("ty")
     }
 }
