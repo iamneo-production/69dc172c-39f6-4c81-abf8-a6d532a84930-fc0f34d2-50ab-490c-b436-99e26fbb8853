@@ -34,7 +34,7 @@ public class Casio implements Calculator{
 
 
 
-
+int c=0;
 
           
 
