@@ -21,8 +21,6 @@ public class Casio implements Calculator{
         diff=num2-num1;
         // System.out.println(num2-num1);      
           return diff;
-          //hai
-          //hai2
-          //..hai3
+          console.log("qwerty")
     }
 }
