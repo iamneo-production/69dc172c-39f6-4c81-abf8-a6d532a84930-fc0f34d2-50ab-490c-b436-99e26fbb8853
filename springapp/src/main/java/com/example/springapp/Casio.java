@@ -24,5 +24,7 @@ public class Casio implements Calculator{
           console.log("qwerty")
           console.log("tyu")
           comsole.log("qaz")
+
+          
     }
 }
