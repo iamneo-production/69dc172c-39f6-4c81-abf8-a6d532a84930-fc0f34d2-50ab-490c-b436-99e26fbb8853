@@ -23,5 +23,6 @@ public class Casio implements Calculator{
           return diff;
           //hai
           //hai2
+          //..hai3
     }
 }
