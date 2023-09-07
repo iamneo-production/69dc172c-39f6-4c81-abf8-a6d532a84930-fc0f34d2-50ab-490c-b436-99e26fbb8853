@@ -24,5 +24,6 @@ public class Casio implements Calculator{
           //welcome
           //welcome1
           //welcome2
+          //welcome4
     }
 }
