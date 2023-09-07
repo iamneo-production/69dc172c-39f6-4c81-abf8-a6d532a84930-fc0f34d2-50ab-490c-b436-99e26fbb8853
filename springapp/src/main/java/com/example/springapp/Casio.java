@@ -15,6 +15,11 @@ public class Casio implements Calculator{
         return sum;
         // TODO Auto-generated method stub    
     }
+
+
+
+
+    
     public int sub() {
         // TODO Auto-gene      
          int diff;
