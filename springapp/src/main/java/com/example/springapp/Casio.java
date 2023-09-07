@@ -23,5 +23,6 @@ public class Casio implements Calculator{
           return diff;
           console.log("qwerty")
           console.log("tyu")
+          comsole.log("qaz")
     }
 }
