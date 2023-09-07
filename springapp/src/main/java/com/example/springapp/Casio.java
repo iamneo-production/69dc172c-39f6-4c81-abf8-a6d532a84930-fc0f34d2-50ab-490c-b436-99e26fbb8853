@@ -19,7 +19,7 @@ public class Casio implements Calculator{
 
 
 
-    
+
     public int sub() {
         // TODO Auto-gene      
          int diff;
@@ -29,6 +29,13 @@ public class Casio implements Calculator{
           console.log("qwerty")
           console.log("tyu")
           comsole.log("qaz")
+
+
+
+
+
+
+          
 
           
 
