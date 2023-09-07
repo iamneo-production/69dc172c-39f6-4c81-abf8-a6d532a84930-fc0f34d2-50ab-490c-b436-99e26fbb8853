@@ -4,9 +4,6 @@ public class Casio implements Calculator{
     int num1,num2;
     public void setNum1(int num1) {
         this.num
-        
-        
-        
         1 = num1;
     }
     public void setNum2(int num2) {
